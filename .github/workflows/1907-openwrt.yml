@@ -37,7 +37,7 @@ on:
 
 
 env:
-  REPO_URL: https://github.com/Lienol/openwrt
+  REPO_URL: https://github.com/Lienol/lean-lede
   REPO_BRANCH: dev-lean-lede
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 1907.config
